@@ -1,0 +1,16 @@
+YDSMS:
+  Url: https://10.8
+  username: Loch
+  password: ok
+WYEmail:
+# SMTP服务器地址
+  server: smtp.163.com
+  port: 465
+   # 发件邮箱（需与登录账号一致）
+  username: *****@163.com
+  # 网易邮箱SMTP授权码
+  password: *********
+  # 发件人显示名称
+  sender_name: 系统通知中心
+WechatBot:
+  bot_key: *****-f4e8-469b-aa48-*****
